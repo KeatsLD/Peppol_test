@@ -11,7 +11,7 @@
           <mxGeometry x="246" y="126" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4" value="Investors" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" parent="1" vertex="1">
-          <mxGeometry x="35" y="201" width="90" height="60" as="geometry" />
+          <mxGeometry x="50" y="120" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5" value="ON-DEMAND SYSTEM DEVELOPMENT" style="shape=process;whiteSpace=wrap;align=center;verticalAlign=middle;size=0.0475;fontStyle=1;strokeWidth=3;fillColor=#FFCCCC" parent="1" vertex="1">
           <mxGeometry x="200.99999999999991" y="391" width="400" height="50" as="geometry" />
